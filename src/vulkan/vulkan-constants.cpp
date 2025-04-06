@@ -24,6 +24,7 @@
 #include <assert.h>
 
 #include "vulkan-backend.h"
+#include "nvrhi/utils.h"
 
 #define ENABLE_SHORTCUT_CONVERSIONS 1
 
